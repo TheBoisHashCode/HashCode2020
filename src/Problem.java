@@ -2,6 +2,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+// Hash code bois
+
 public class Problem {
 	private static String[] FILES = {
 			"a_example.txt",
